@@ -1,0 +1,8 @@
+html
+css
+javascript
+nodejs
+reactjs
+vuejs
+python
+banco de dados
